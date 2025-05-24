@@ -1,0 +1,23 @@
+
+// lecture 3 
+=>in vite the project the jsx fill is used only 
+where as in that basicReact i.e npx run  we can use "js" as well as "jsx"\
+also on importing the function as name we use can use only first letter as capital in both basic react as well as vite one
+
+=>in basic react we use s for complete javascript file i.e the file where no html is returned and if html is returned then we use jsx
+
+//lecture 4
+=>we had learn how does actually react work , in this lecture we learned and maked our custom react
+=>so basically we learn how the babel convert the imported function and also we learn that </App> this is basically a syntax 
+which is further converted by babel according to his need 
+=> we can directly use function which is made inside that by calling it or by using above syntax
+=>so these function are basically returning some html file ,so these function are giving the html for rendering 
+=>hence we can also directlty do this by storing html into the container like in our code we had used anotherElement.
+=>we can also reduce one step for babel by using js for means javascript convert those html[jsx] into the js so we can also
+ reduce that step which we had done reactElement
+................................................................................................................................................................................................................................................................................
+
+ note:-
+ =>Babel is a JavaScript compiler — a tool that transforms your modern JavaScript and JSX code into older JavaScript that browsers can understand.
+ ................................................................................................................................................................................................................................................................................
+
